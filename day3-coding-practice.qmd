@@ -1,0 +1,25 @@
+---
+title: "Day 3 coding practice"
+format: html
+editor: visual
+---
+
+# Coding practice
+
+```{r}
+vec_a <- c(1, 6)
+vec_b <- c(2, 4)
+
+#addition
+vec_a + vec_b
+
+#subtraction
+vec_a - vec_b
+
+# scalar multiplication
+2 * vec_a
+
+# dot product
+vec_a %*% vec_b
+```
+
